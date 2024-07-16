@@ -1,8 +1,9 @@
-module goplay2
+module github.com/sourcefrenchy/goplay2
 
 go 1.16
 
 require (
+
 	github.com/albanseurat/go-ptp v0.0.0-20210621114405-a6d76e8bd928
 	github.com/brutella/hc v1.2.4
 	github.com/google/uuid v1.2.0
